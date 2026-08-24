@@ -3,4 +3,4 @@
   publish = "dist"
 
 [functions]
-  node_compatibility = "esbuild"
+  node_bundler = "esbuild"
